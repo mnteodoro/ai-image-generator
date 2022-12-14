@@ -12,3 +12,4 @@ $ npm i -D nodemon
 
 // create a dev script
 "dev": "nodemon index"
+
